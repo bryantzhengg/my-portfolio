@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.44536e3e.css",
+    "main.js": "/my-portfolio/static/js/main.38694d90.js",
+    "static/media/daonsushi.png": "/my-portfolio/static/media/daonsushi.49f096a57e7745cb3095.png",
+    "static/media/python3.png": "/my-portfolio/static/media/python3.ff50f44e998e242918c7.png",
+    "static/media/hotel2.png": "/my-portfolio/static/media/hotel2.cfef14875b369a8db54d.png",
+    "static/media/pinklandscape.jpg": "/my-portfolio/static/media/pinklandscape.49754a11de83b2eff729.jpg",
+    "static/media/java2.png": "/my-portfolio/static/media/java2.b3e9700db1baad2c55fc.png",
+    "static/media/excel2.png": "/my-portfolio/static/media/excel2.727caac39ba1d3b6fcbd.png",
+    "static/media/website.png": "/my-portfolio/static/media/website.ef675cd27fd4bb1e2fb2.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.44536e3e.css.map": "/my-portfolio/static/css/main.44536e3e.css.map",
+    "main.38694d90.js.map": "/my-portfolio/static/js/main.38694d90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44536e3e.css",
+    "static/js/main.38694d90.js"
+  ]
+}
